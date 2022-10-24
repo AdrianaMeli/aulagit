@@ -1,0 +1,2 @@
+O docker e um gerenciador de containner
+Esse e um novo metodo de commit.
